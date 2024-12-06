@@ -18,6 +18,7 @@ SPDX-License-Identifier: CC0-1.0
         <a href="https://spdx.org/licenses"><img alt="license badge" src="https://img.shields.io/badge/📝_License-MIT OR Apache--2.0-4CAF50.svg"/></a>
         <a href="https://github.com/whiteprints-tests/test-rtd-linux-py312-test/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/whiteprints-tests/test-rtd-linux-py312-test.svg?logo=GitHub"></a>
         <a href="https://api.reuse.software/info/github.com/whiteprints-tests/test-rtd-linux-py312-test"><img alt="REUSE status" src="https://api.reuse.software/badge/github.com/whiteprints-tests/test-rtd-linux-py312-test"/></a>
+        <a href='https://readthedocs.org/projects/test-rtd-linux-py312-test/'><img src='https://readthedocs.org/projects/test-rtd-linux-py312-test/badge/?version=latest' alt='Documentation Status' /></a>
         <a href="https://www.contributor-covenant.org/version/2/1/code_of_conduct/"><img alt="contributor covenant badge" src="https://img.shields.io/badge/Contributor_Covenant-2.1-4BAAAA.svg?logo=contributorcovenant"/></a>
     </p>
 </div>
@@ -38,6 +39,10 @@ SPDX-License-Identifier: CC0-1.0
 ## Highlights
 
 ...
+
+## Documentation
+
+See: https://test-rtd-linux-py312-test.readthedocs.io/en/stable/.
 
 ## Install
 
