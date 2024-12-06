@@ -55,6 +55,14 @@ dependencies = [
     "rich-click>=1.8.5",
 ]
 
+urls.changelog = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test/releases"
+urls.discussions = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test/discussions"
+urls.documentation = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test"
+urls.download = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test/releases"
+urls.homepage = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test"
+urls.integration = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test/actions"
+urls.issues = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test/issues"
+urls.repository = "https://github.com/whiteprints-tests/test-rtd-linux-py312-test"
 scripts.test-rtd-linux-py312-test = "test_rtd_linux_py312_test.cli.entrypoint:test_rtd_linux_py312_test"
 
 [dependency-groups]
